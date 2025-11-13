@@ -1,2 +1,2 @@
-# MYSQL
+# MySQL
 Healthcare Management System 
